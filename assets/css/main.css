@@ -57,6 +57,10 @@ h6 {
     border-radius: 8px;
 }
 
+.site__map_block iframe {
+    width: 100%;
+}
+
 .site__footer {
     background-color: #212529;
     color: white;
